@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>How to Remove Background Noise in Audacity</h1>\
+  <h1>How to Remove Background Noise in Audacity</h1>
   <h2><p>
-  <img src="https://image.petmd.com/files/styles/978x550/public/2022-10/french-bulldog.jpeg" alt="French Bulldog"?
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Audacity_Logo.svg/2048px-Audacity_Logo.svg.png" alt=""?
 </p>
     By: Sylvia Volkert</h2>
 </div>
