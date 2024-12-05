@@ -3,9 +3,9 @@
   <h2>By: Sylvia Volkert</h2>
 </div>
 
-<p>Brief summary and concept</p>
+<p>The purpose of this tutorial is to show inexperienced users how to remove background noise in Audacity. This could be for project </p>
 
-<p>summary of target audience</p>
+<p>The target audience would be high schoolers, college students, and adults who have little technology or Audacity experience.</p>
 
 * [Opening the audio file](x.md)
 
