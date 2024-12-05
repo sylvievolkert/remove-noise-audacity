@@ -1,7 +1,7 @@
 <div align="center">
   <h1>How to Remove Background Noise in Audacity</h1>
   <h2><p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Audacity_Logo.svg/2048px-Audacity_Logo.svg.png" alt="" width="200" height="200">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Audacity_Logo.svg/2048px-Audacity_Logo.svg.png" alt="" width="150" height="150">
 </p>
     By: Sylvia Volkert</h2>
 </div>
