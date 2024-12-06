@@ -3,7 +3,7 @@
 </div>
 
 <p align=center>
-  [blank audacity](images/blankaudacity.png)
+  ![blank audacity](images/blankaudacity.png)
 </p>
 
 <p>EXPLAIn</p>
