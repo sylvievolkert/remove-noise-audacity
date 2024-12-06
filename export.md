@@ -7,6 +7,6 @@
 
 
 
-<p>EXPLAIn</p>
+<p>Once you are fully done with any audio adjustments and are ready to export</p>
 
 [Go back to Homepage](README.md)
