@@ -10,8 +10,8 @@
 
 <p>The target audience would be high schoolers, college students, and adults who have little technology or Audacity experience.</p>
 
-* [Opening the audio file](x.md)
+* [Opening the audio file in Audacity](x1.md)
 
-* [](x.md)
+* [](x2.md)
 
-* [](x.md)
+* [](x3.md)
