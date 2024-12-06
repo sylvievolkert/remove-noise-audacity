@@ -2,9 +2,9 @@
   <h2>How to Open File in Audacity</h2>
 </div>
 
-<p align=center>
+
   ![blank audacity](images/blankaudacity.png)
-</p>
+
 
 <p>EXPLAIn</p>
 
