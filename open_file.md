@@ -3,7 +3,7 @@
 </div>
 
 <p align=center>
-  <img src=images/blankaudacity?
+  <img src=images/blankaudacity>
 </p>
 
 <p>EXPLAIn</p>
