@@ -3,7 +3,7 @@
 </div>
 
 <p align=center>
-  <img src=assets/images/blankaudacity.png>
+  <img src=[assets/images/blankaudacity.png](https://github.com/sylvievolkert/remove-noise-audacity/blob/main/images/blankaudacity.png)?
 </p>
 
 <p>EXPLAIn</p>
