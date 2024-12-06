@@ -3,7 +3,7 @@
 </div>
 
 
-  ![effect button](images/noiseremovalbuttonhighlight.png)
+  ![effect button](images/noisereductionbuttonhighlight.png)
 
 
   ![popup window](images/adjustednoisereduct.png)
