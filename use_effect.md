@@ -4,9 +4,12 @@
 
 <p align=center>
   <img src="https://image.petmd.com/files/styles/978x550/public/2022-10/french-bulldog.jpeg" alt="French Bulldog"?
-
-  <img src="https://image.petmd.com/files/styles/978x550/public/2022-10/french-bulldog.jpeg" alt="French Bulldog"?
 </p>
+
+<p align=center>
+<img src="https://image.petmd.com/files/styles/978x550/public/2022-10/french-bulldog.jpeg" alt="French Bulldog"?
+  </p>
+
 
 <p>EXPLAIN</p>
 
