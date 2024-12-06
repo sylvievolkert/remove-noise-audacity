@@ -8,6 +8,6 @@
 
 <p>EXPLAIn</p>
 
-[Next](x2.md)
+[Next](use_effect.md)
 
 [Go back to Homepage](README.md)
