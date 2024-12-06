@@ -7,6 +7,6 @@
 
 
 
-<p>Once you are fully done with any audio adjustments and are ready to export, go to file at the top of your menu, and then down to Export Audio. You can then choose the destination for your clip!</p>
+<p>Once you are fully done with any audio adjustments and are ready to export, go to File at the top of your menu, and then down to Export Audio. You can then choose the destination for your clip!</p>
 
 [Go back to Homepage](README.md)
